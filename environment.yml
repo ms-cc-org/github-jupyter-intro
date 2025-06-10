@@ -1,0 +1,6 @@
+name: github-jupyter-intro
+dependencies:
+  - python=3.10
+  - jupyter
+  - pandas
+  - matplotlib

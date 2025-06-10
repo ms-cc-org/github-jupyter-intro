@@ -4,7 +4,7 @@ This repository contains materials for a 1.5-hour workshop introducing GitHub an
 
 ## Launch in Binder
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/your-repo/github-jupyter-intro/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ms-cc-org/github-jupyter-intro/HEAD)
 
 ## Contents
 
